@@ -1,0 +1,59 @@
+body
+{
+    background-color: rgb(206, 214, 221);
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color:salmon;
+    padding:50px;
+    
+  }
+
+  
+  .navbar-brand
+  {
+      font-size: xxx-large;
+      
+  }
+
+ 
+
+  
+
+  ul
+  {
+    list-style-type: none;
+  }
+
+  li
+  {
+    float: left;
+    padding:10px
+  }
+
+  .ftlinks
+  {
+      font-size: 20px;
+      text-align: center;
+      margin:auto;
+      display:inline;
+  }
+
+  .icon
+  {
+      font-size: 20px;
+  }
+
+.jumbotron
+{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+ 
+.content
+{
+  height:1000px;
+  padding:20px;
+}

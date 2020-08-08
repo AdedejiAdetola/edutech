@@ -1,0 +1,36 @@
+body{
+    background-color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman' ;
+
+}
+background-image{
+    background-size: 100% 90%;
+    height: 200px;
+    width: 100px;
+}
+.img{
+    width: auto;
+    height: fit-content;
+}
+.orw{
+    text-decoration-style: wavy;
+    text-emphasis-color: blue;
+    color: tomato;
+}
+.exp{
+    color: coral;
+    border-radius: 1px;
+    background-color: crimson;
+    font-size: small;
+    text-align: center;
+  
+}.frw{
+    background-color: white;
+    border: darkgray;
+    text-align: center;
+}
+.contact{
+    background-color: white;
+    text-align:center ;
+    font-size: smaller;
+}

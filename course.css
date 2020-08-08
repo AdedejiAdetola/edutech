@@ -1,0 +1,98 @@
+body 
+{
+    margin: 0;
+    background-color:seashell;
+  }
+
+ul.sidebar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: salmon;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a.sidebar 
+{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+  
+  
+li a.sidebar:hover 
+{
+    background-color: #555;
+    color: white;
+}
+
+li a.sidebar:active
+{
+    background-color:rgb(206, 214, 221);
+}
+
+.container
+{
+    
+    margin-left:25%;
+    padding:1px 16px;
+    height:1000px;
+    width:75%;
+}
+
+.jumbotron
+{
+    background-color: seashell;
+}
+
+.content
+{
+    margin-bottom: 150px;
+}
+
+ul.classify
+{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+    height: 100%;
+    display:block;
+}
+
+
+
+li.classify
+{
+    text-decoration:none;
+    padding:5px;
+    
+   
+}
+ul li.classify:hover
+{
+    background-color: whitesmoke;
+    border-bottom: 2px solid rgb(233, 140, 140);
+    border-top: 2px solid lightpink;    
+    
+}
+
+li a.classify
+{
+    padding:5px;
+    text-decoration: none;
+    
+}
+
+li a.classify:hover
+{
+    color:black;
+}
+
+
+

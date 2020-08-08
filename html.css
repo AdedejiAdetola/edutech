@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(206, 214, 221);
+}
+
+#topics {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #topics td, #topics th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #topics tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #topics tr:hover {background-color: #ddd;}
+  
+  #topics th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: slategray;
+    color: white;
+  }
+
+  .jumbotron
+  {
+    background-color: salmon;  
+  }
+
